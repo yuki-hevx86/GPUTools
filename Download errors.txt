@@ -1,0 +1,12 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+gc.properties - https://onedrive.live.com/?cid=a6a33db33085cd4d&id=A6A33DB33085CD4D%2156302&action=Download
+
+R.java - https://onedrive.live.com/?cid=a6a33db33085cd4d&id=A6A33DB33085CD4D%2157426&action=Download
+
+values-pt.json - https://onedrive.live.com/?cid=a6a33db33085cd4d&id=A6A33DB33085CD4D%2157070&action=Download
+
+values-pt-rPT.json - https://onedrive.live.com/?cid=a6a33db33085cd4d&id=A6A33DB33085CD4D%2157071&action=Download
+
+
+
